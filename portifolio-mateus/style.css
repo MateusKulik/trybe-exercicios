@@ -21,15 +21,8 @@ h1 {
     
         
 }
-
-.font-style {
-    font-family:'Open Sans', sans-serif;
-    margin-left: 50px;
-    display: inline-block
     
-
-}
-
+    
     .picture {
         border-radius: 30%;
         margin-left: 180px;
@@ -37,6 +30,19 @@ h1 {
         margin-bottom: 30px;
         margin-top: 40px;
         width: 200px;
+        float: left;
+        
+        
+    }
+
+    .font-style { 
+        display: inline-block;
+        font-family: 'Roboto', Arial, Helvetica, sans-serif;
+        margin-left: 30px;
+        position: absolute;
+        top: 30px;
+        
+
     }
 
     h3 {
@@ -45,6 +51,7 @@ h1 {
         margin-left: 100px;
         height: auto;
         width:  150.px 
+       
     }
 
 
@@ -64,6 +71,10 @@ h1 {
 
     }
     
-
+    .pic-test {
+        
+        height: 400px;
+        position: relative;
+    }
 
     
