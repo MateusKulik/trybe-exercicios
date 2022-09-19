@@ -32,7 +32,6 @@ h1 {
         margin-top: 40px;
         width: 200px;
         float: left;
-        background-color: orange;
         
         
     }
@@ -57,6 +56,7 @@ h1 {
         margin-bottom: 20px;
         margin-top: 50px;
 
+
     }
 
 
@@ -66,11 +66,9 @@ h1 {
         background-color: rgba(16, 162, 230, 0.952);
         color: #fff;
         margin-left: 200px;
+        border-radius:10%;
         
-       
-
-
-
+    
     }
 
     .list-style {
@@ -93,7 +91,8 @@ h1 {
     .where-findme {
 
         margin-top: 60px;
-        margin-bottom: 40px;    
+        margin-bottom: 40px; 
+        
         
     }
 
